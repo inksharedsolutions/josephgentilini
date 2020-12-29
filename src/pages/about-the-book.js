@@ -4,7 +4,7 @@ import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
 import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
-import Book1 from '../../static/books/book-min.png'
+import Book1 from '../../static/books/book.png'
 import { Helmet } from "react-helmet"
 
 
