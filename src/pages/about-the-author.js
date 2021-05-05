@@ -51,7 +51,7 @@ const ATB = (props) => {
                             </p>
 
                             <p>
-                            Joseph and Leo are active in their respective religious communities. Both help each other to be spiritually connected, not only with within their relationship, but also with God.
+                            Joseph and Leo are active in their respective religious communities. Both help each other to be spiritually connected, not only within their relationship, but also with God.
                             </p>
 
                             <p>

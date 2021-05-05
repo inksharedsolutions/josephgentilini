@@ -38,6 +38,20 @@ const MidBook = (props) => {
                         </div>
                     </div>
                 </div>
+                
+                <div className="container-gt separator-line">
+                    <div className="flex-container-fx">
+                        <div className="book-reviews">
+                            <h2>The US Review of Books</h2>
+                            <ul className="br-list">
+                                <li>
+                                    <p>"I learned to love my gayness – my cross – because it allowed me access to my Eros, the fluids which flow within me, the creative part of me." <a href="https://www.theusreview.com/reviews-1/Hounded-by-God-by-Joseph-Gentilini.html#.YJHOc8DiuUk" target="_blank" rel="noreferrer noopener">Read more</a></p>
+                                </li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </div>
             </section>
         </>
     )
