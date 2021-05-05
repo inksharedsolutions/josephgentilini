@@ -45,7 +45,7 @@ const MidBook = (props) => {
                             <h2>The US Review of Books</h2>
                             <ul className="br-list">
                                 <li>
-                                    <p>"I learned to love my gayness – my cross – because it allowed me access to my Eros, the fluids which flow within me, the creative part of me." <a href="https://www.theusreview.com/reviews-1/Hounded-by-God-by-Joseph-Gentilini.html#.YJHOc8DiuUk" target="_blank" rel="noreferrer noopener">Read more</a></p>
+                                    <p>This beautifully written work stemming from the author's personal journals explores his family history, his fear of intimacy, and his commitment to Christ, God, and Catholicism. <a href="https://www.theusreview.com/reviews-1/Hounded-by-God-by-Joseph-Gentilini.html#.YJHOc8DiuUk" target="_blank" rel="noreferrer noopener">Read more</a></p>
                                 </li>
                             </ul>
                             
